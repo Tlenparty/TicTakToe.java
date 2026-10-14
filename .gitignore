@@ -1,2 +1,18 @@
-# Project exclude paths
-/target/
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
+
+# Build artifacts
+*.class
+*.jar
+
+# Logs & OS junk
+*.log
+.DS_Store
+Thumbs.db
