@@ -1,13 +1,13 @@
 # Tic-Tac-Toe
 
-Консольные крестики-нолики на Java на поле 5×5 против компьютера.
-Игрок ходит крестиками, вводя координаты `x y` (от 1 до 5), компьютер — ноликами
-случайным ходом. Побеждает тот, кто соберёт 4 своих символа в одной строке, столбце или на одной из главных диагоналей;
-при заполненном поле объявляется ничья.
+Console Tic-Tac-Toe in Java on a 5×5 board against the computer.
+The player plays crosses, entering coordinates `x y` (1 to 5); the computer plays noughts
+with random moves. The winner is whoever gets 4 of their symbols in a row, column, or on one of the main diagonals;
+if the board fills up, the game is declared a draw.
 
-## Запуск
+## Run
 
-Требуется JDK 8+.
+Requires JDK 8+.
 
 ```bash
 javac -d out src/main/java/TicTakToe.java
