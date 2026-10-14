@@ -1,4 +1,3 @@
-import com.sun.glass.ui.Size;
 
 import java.util.Random;
 import java.util.Scanner;
